@@ -1,0 +1,50 @@
+#container{
+    display: grid;
+    margin: auto;    
+}
+
+/* input css */
+
+#input{
+    padding: 1rem;
+    margin: auto;
+    text-align: center;
+    color: honeydew;
+    font-size: 2rem;
+    width: 25rem;
+    background-color: #008000;
+    border-radius: 25px;
+}
+
+
+#num{
+    width: 3rem;
+    height: 3rem;
+    text-align: center;
+    font-size: 1.75rem;
+    background-color: #00cc00;
+    margin: auto;
+}
+
+#btn{
+    background-color: indianred;
+    width: 6.5rem;
+    height: 3rem;
+    border-radius: 25px; 
+    color: honeydew;
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
+
+/* output css */
+
+#output{
+    padding: 1rem;
+    margin: auto;
+    text-align: center;
+    color: honeydew;
+    font-size: 2rem;
+    width: 25rem;
+    background-color: #47d147;
+    border-radius: 25px;
+}
