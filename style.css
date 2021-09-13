@@ -26,13 +26,19 @@
     margin: auto;
 }
 
-#btn{
+#btnDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
     background-color: indianred;
     width: 6.5rem;
     height: 3rem;
     border-radius: 25px; 
     color: honeydew;
-    font-size: 1.5rem;
+    font-size: 1rem;
     margin-top: 1rem;
 }
 
